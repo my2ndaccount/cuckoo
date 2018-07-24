@@ -1,2 +1,3 @@
+queue: "Default"
 steps:
 - script: echo hello world
