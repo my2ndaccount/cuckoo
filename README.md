@@ -1,4 +1,4 @@
 # cuckoo
 YAML testing
 
-We've come a long way.
+Let's polish this experience.
